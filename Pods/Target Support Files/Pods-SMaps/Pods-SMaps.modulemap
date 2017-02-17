@@ -1,0 +1,6 @@
+framework module Pods_SMaps {
+  umbrella header "Pods-SMaps-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,8 @@
+# https://developers.google.com/maps/documentation/ios-sdk/start
+use_frameworks!
+
+source 'https://github.com/CocoaPods/Specs.git'
+target 'SMaps' do
+  pod 'GoogleMaps'
+  pod 'GooglePlaces'
+end
